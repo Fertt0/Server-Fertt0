@@ -22,7 +22,7 @@ ui.setAsynchronousImagesLoading(true)
 --Image Config table that is used by the script. 
 --Duplicate the entire table and increment the numbers by 1.
 --Follow the example from image_0 and image_1 to get an understanding of how it works.
-local image_0_source = 'https://raw.githubusercontent.com/Fertt0/Server-Fertt0/3fa1ddc5b39c295877c7da21ca1a048504cb8d51/SERVERS%20IMAGE.png'
+local image_0_source = 'https://raw.githubusercontent.com/Fertt0/Server-Fertt0/1398bf473070bf7361e53d417718623d8d3eac20/servers%20icon.png'
 local image_1_source = ''
 
 -------------------------------------------------------------------
@@ -35,7 +35,7 @@ local function loadImageMeta()
         ['sizeX'] = ui.imageSize(image_0_source).x,
         ['sizeY'] = ui.imageSize(image_0_source).y,
         ['paddingX'] = 100,
-        ['paddingY'] = 15,
+        ['paddingY'] = 10,
         ['scale'] = 0.5}
 
 
