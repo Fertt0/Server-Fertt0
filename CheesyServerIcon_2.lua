@@ -22,7 +22,7 @@ ui.setAsynchronousImagesLoading(true)
 --Image Config table that is used by the script. 
 --Duplicate the entire table and increment the numbers by 1.
 --Follow the example from image_0 and image_1 to get an understanding of how it works.
-local image_0_source = 'https://raw.githubusercontent.com/Fertt0/Server-Fertt0/22d744e6101d175148a9bf8b956f5fbff73aca3f/servers%20icon.png'
+local image_0_source = 'https://raw.githubusercontent.com/Fertt0/Server-Fertt0/458458de8f121c1593745f660baf8656d6b4baa9/servers%20icon.png'
 local image_1_source = ''
 
 -------------------------------------------------------------------
