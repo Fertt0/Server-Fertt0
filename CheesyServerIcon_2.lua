@@ -22,8 +22,8 @@ ui.setAsynchronousImagesLoading(true)
 --Image Config table that is used by the script. 
 --Duplicate the entire table and increment the numbers by 1.
 --Follow the example from image_0 and image_1 to get an understanding of how it works.
-local image_0_source = 'https://i.ibb.co/vJqcCW1/SERVERS-IMAGE.png'
-local image_1_source = 'https://raw.githubusercontent.com/Fertt0/Server-Fertt0/4df2d2684faca0e6c0c89a526f5d4207d89e1abc/SERVERS%20IMAGE.png'
+local image_0_source = 'https://raw.githubusercontent.com/Fertt0/Server-Fertt0/4df2d2684faca0e6c0c89a526f5d4207d89e1abc/SERVERS%20IMAGE.png'
+local image_1_source = ''
 
 -------------------------------------------------------------------
 local function loadImageMeta()
@@ -165,30 +165,14 @@ ui.registerOnlineExtra(ui.Icons.Bug, "Server Icon Debug", function () return tru
         if ui.checkbox("Draw Screen Center Lines", debugLines) then debugLines = not debugLines end
     end, function (okClicked) end,ui.OnlineExtraFlags.Admin)
 
-
-function script.drawUI()
-    if creditTimer > 0 then
-        display.rect({ pos = vec2(screensize.x/2-120, creditPos-5), size = vec2(240,40), color = rgbm(0,0,0,0.5)})
-        display.text({
-            text = 'Server Icon Script v'..scriptVersion..'\n    by CheesyManiac',
-            pos = vec2((screensize.x/2)-92, creditPos),
-            letter = vec2(8, 16),
-            font = 'aria',
-            color = rgbm.colors.white
-          })
-    end
-    if debugLines then
-        drawdebugLines()
-    end
-
 -------------------------------------------------------------------
 -------------ADD YOUR ADDITIONAL IMAGES UNDER HERE,----------------
 ----------------SO THAT THEY ARE DRAWN ON SCREEN-------------------
 -------------------------------------------------------------------
 
 
-    positionImage(image_0, 'center_left', debugImage)
-    positionImage(image_0, 'center_center', debugImage)
+    positionImage(image_0, 'top_left', debugImage)
+    positionImage(image_0, 'top_left', debugImage)
 
 
 --DO NOT forget the final "end" over here, otherwise it will not work.
