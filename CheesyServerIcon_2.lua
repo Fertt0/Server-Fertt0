@@ -165,10 +165,26 @@ ui.registerOnlineExtra(ui.Icons.Bug, "Server Icon Debug", function () return tru
         if ui.checkbox("Draw Screen Center Lines", debugLines) then debugLines = not debugLines end
     end, function (okClicked) end,ui.OnlineExtraFlags.Admin)
 
+function script.drawUI()
+    if creditTimer > 0 then
+        display.rect({ pos = vec2(screensize.x/2-120, creditPos-5), size = vec2(240,40), color = rgbm(0,0,0,0.5)})
+        display.text({
+            text = 'Server Icon Script v'..scriptVersion..'\n    by CheesyManiac',
+            pos = vec2((screensize.x/2)-92, creditPos),
+            letter = vec2(8, 16),
+            font = 'aria',
+            color = rgbm.colors.white
+          })
+    end
+    if debugLines then
+        drawdebugLines()
+    end
+
 -------------------------------------------------------------------
 -------------ADD YOUR ADDITIONAL IMAGES UNDER HERE,----------------
 ----------------SO THAT THEY ARE DRAWN ON SCREEN-------------------
 -------------------------------------------------------------------
+
 
 
     positionImage(image_0, 'top_left', debugImage)
