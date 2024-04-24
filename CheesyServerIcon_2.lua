@@ -34,7 +34,7 @@ local function loadImageMeta()
         ['src'] = ui.GIFPlayer(image_0_source),
         ['sizeX'] = ui.imageSize(image_0_source).x,
         ['sizeY'] = ui.imageSize(image_0_source).y,
-        ['paddingX'] = 130,
+        ['paddingX'] = 10,
         ['paddingY'] = 10,
         ['scale'] = 0.5}
 
@@ -188,8 +188,8 @@ function script.drawUI()
 
 
 
-    positionImage(image_0, 'top_left', debugImage)
-    positionImage(image_0, 'top_left', debugImage)
+    positionImage(image_0, 'bottom_left', debugImage)
+    positionImage(image_0, 'bottom_left', debugImage)
 
 
 --DO NOT forget the final "end" over here, otherwise it will not work.
