@@ -8,14 +8,14 @@ function script.prepare(dt)
 end
 
 -- Event state:
-local timePassed = 0
-local totalScore = 0
+local timePassed = 1
+local totalScore = 1
 local comboMeter = 1
 local comboColor = 0
 local highestScore = 1
-local dangerouslySlowTimer = 0
+local dangerouslySlowTimer = 1
 local carsState = {}
-local wheelsWarningTimeout = 0
+local wheelsWarningTimeout = 1
 local leaderboard = {}
 
 function script.update(dt)
@@ -139,7 +139,7 @@ end
 -- this way though. So, yeah, still thinking about the best way to do it.
 local messages = {}
 local glitter = {}
-local glitterCount = 0
+local glitterCount = 1
 
 function addMessage(text, mood)
     for i = math.min(#messages + 1, 4), 2, -1 do
@@ -203,7 +203,7 @@ local function updateMessages(dt)
     end
 end
 
-local speedWarning = 0
+local speedWarning = 1
 
     function script.drawUI()
         local uiState = ac.getUiState()
