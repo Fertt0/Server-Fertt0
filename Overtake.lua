@@ -11,8 +11,8 @@ end
 local timePassed = 0
 local totalScore = 0
 local comboMeter = 1
-local comboColor = 0
-local highestScore = 0
+local comboColor = 1
+local highestScore = 1
 local dangerouslySlowTimer = 0
 local carsState = {}
 local wheelsWarningTimeout = 0
