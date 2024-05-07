@@ -3,6 +3,7 @@ local requiredSpeed = 80
 function script.prepare(dt)
     ac.debug("speed", ac.getCarState(1).speedKmh)
     return ac.getCarState(1).speedKmh > 60
+	
 end
 -- Event state:
 local timePassed = 1
