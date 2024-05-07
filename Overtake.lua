@@ -1,6 +1,5 @@
-
 local requiredSpeed = 80
-end
+
 function script.prepare(dt)
     ac.debug("speed", ac.getCarState(1).speedKmh)
     return ac.getCarState(1).speedKmh > 60
