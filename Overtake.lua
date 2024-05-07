@@ -1,3 +1,4 @@
+
 local requiredSpeed = 80
 
 function script.prepare(dt)
