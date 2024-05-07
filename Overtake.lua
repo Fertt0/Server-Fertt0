@@ -1,6 +1,4 @@
--- Event configuration:
 local requiredSpeed = 80
-
 -- This function is called before event activates. Once it returns true, it’ll run:
 function script.prepare(dt)
     ac.debug("speed", ac.getCarState(1).speedKmh)
