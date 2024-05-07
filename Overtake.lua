@@ -1,6 +1,6 @@
 
 local requiredSpeed = 80
-
+end
 function script.prepare(dt)
     ac.debug("speed", ac.getCarState(1).speedKmh)
     return ac.getCarState(1).speedKmh > 60
@@ -300,4 +300,4 @@ local speedWarning = 1
     ui.popFont()
     ui.endOutline(rgbm(0, 0, 0, 0.3))
     ui.endTransparentWindow()
-end
+    end
