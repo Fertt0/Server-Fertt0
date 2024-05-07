@@ -4,7 +4,6 @@ function script.prepare(dt)
     ac.debug("speed", ac.getCarState(1).speedKmh)
     return ac.getCarState(1).speedKmh > 60
 end
-end
 -- Event state:
 local timePassed = 1
 local totalScore = 1
