@@ -1,0 +1,22 @@
+{
+  "calipers": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "carPaint": {
+    "color": "#FF9E0002",
+    "flakes": 1.0,
+    "enabled": true
+  },
+  "licensePlate": {
+    "style": "Europe"
+  },
+  "rims": {
+    "enabled": false,
+    "colors": [
+      "#000000"
+    ]
+  }
+}

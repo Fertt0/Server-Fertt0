@@ -1,0 +1,25 @@
+{
+  "calipers": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "carPaint": {
+    "color": "#FF575760",
+    "flakes": 1.0,
+    "enabled": true
+  },
+  "carPaint2": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "rims": {
+    "enabled": false,
+    "colors": [
+      "#191616"
+    ]
+  }
+}
