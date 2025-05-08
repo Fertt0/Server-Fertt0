@@ -1,0 +1,50 @@
+{
+  "bmwLogoExt": {
+    "enabled": false,
+    "value": "newClassic"
+  },
+  "bmwLogoExtRims": {
+    "enabled": false,
+    "value": "newClassic"
+  },
+  "bmwLogoExtNormal": {
+    "enabled": false,
+    "value": "50Years"
+  },
+  "calipersColor": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe"
+  },
+  "m5Color": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF4C4B4B",
+    "flakes": 0.0,
+    "enabled": true
+  },
+  "pipesColor": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FFFF3700",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "rimsColor": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF686767",
+    "flakes": 0.0,
+    "enabled": true
+  }
+}

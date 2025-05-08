@@ -1,0 +1,4 @@
+# some URLs from https://truck-simulator.fandom.com/wiki/Radio_Stations
+
+RECORD PHONK = https://radiorecord.hostingradio.ru/phonk96.aacp
+RECORD RUSSIAN MIX = https://radiorecord.hostingradio.ru/rus96.aacp
