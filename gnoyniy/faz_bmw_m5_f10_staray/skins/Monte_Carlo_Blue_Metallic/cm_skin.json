@@ -1,0 +1,54 @@
+{
+  "carPaint": {
+    "complex": true,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF00286D",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "interior": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather2": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather4": {
+    "enabled": true,
+    "colors": [
+      "#BDBFB5"
+    ]
+  },
+  "leather5": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leatherColored": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "licensePlate": {
+    "style": "Russia",
+    "paramPrefix": "E",
+    "paramPostfix": "KX",
+    "paramNumber": "777",
+    "paramRegion": "77"
+  }
+}

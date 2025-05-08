@@ -1,0 +1,93 @@
+{
+  "calipers": {
+    "enabled": false,
+    "colors": [
+      "#8B0000"
+    ]
+  },
+  "carPaint": {
+    "complex": true,
+    "reflection": 0.45,
+    "gloss": 0.0,
+    "specular": 0.554,
+    "color": "#FF000000",
+    "flakes": 1.0,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "cloth": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather2": {
+    "enabled": false,
+    "colors": [
+      "#333335"
+    ]
+  },
+  "leather4": {
+    "enabled": false,
+    "colors": [
+      "#333335"
+    ]
+  },
+  "leather5": {
+    "enabled": false,
+    "colors": [
+      "#333335"
+    ]
+  },
+  "leatherColored": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe"
+  },
+  "rims": {
+    "enabled": false,
+    "colors": [
+      "#1C1A1A"
+    ]
+  },
+  "rims2": {
+    "enabled": false,
+    "colors": [
+      "#000000"
+    ]
+  },
+  "stitches": {
+    "enabled": false,
+    "colors": [
+      "#A01313"
+    ]
+  },
+  "trimming1": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "windows": {
+    "alpha": 0.0,
+    "enabled": false,
+    "colors": [
+      "#0A0A0A"
+    ]
+  }
+}

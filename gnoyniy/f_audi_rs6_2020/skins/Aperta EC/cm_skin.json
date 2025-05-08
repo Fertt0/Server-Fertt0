@@ -1,0 +1,47 @@
+{
+  "carPaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF333333",
+    "flakes": 0.69600000000000006,
+    "enabled": false
+  },
+  "carpet": {
+    "enabled": true,
+    "colors": [
+      "#3F3F3F"
+    ]
+  },
+  "leather": {
+    "enabled": true,
+    "colors": [
+      "#2B170E"
+    ]
+  },
+  "leather2": {
+    "enabled": false,
+    "colors": [
+      "#050404"
+    ]
+  },
+  "leather3": {
+    "enabled": true,
+    "colors": [
+      "#7A431C"
+    ]
+  },
+  "leatherColored": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "rims": {
+    "enabled": true,
+    "colors": [
+      "#E0D5D5"
+    ]
+  }
+}

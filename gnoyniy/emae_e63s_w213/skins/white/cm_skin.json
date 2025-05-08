@@ -1,0 +1,56 @@
+{
+  "calipers": {
+    "enabled": true,
+    "colors": [
+      "#C6AB11"
+    ]
+  },
+  "carPaint": {
+    "complex": true,
+    "reflection": 0.7,
+    "gloss": 0.06,
+    "specular": 0.06,
+    "color": "#FFE5DEDE",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": true,
+    "colors": [
+      "#302F2F"
+    ]
+  },
+  "leather2": {
+    "enabled": true,
+    "colors": [
+      "#1C1B1B"
+    ]
+  },
+  "leather3": {
+    "enabled": true,
+    "colors": [
+      "#282828"
+    ]
+  },
+  "leather4": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leatherColored": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "licensePlate": {
+    "style": "Картинка Limma"
+  }
+}

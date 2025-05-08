@@ -1,0 +1,55 @@
+{
+  "carPaint": {
+    "complex": true,
+    "reflection": 0.0,
+    "gloss": 1.0,
+    "specular": 0.5,
+    "color": "#FF0C0C0C",
+    "flakes": 0.0,
+    "enabled": false
+  },
+  "interior": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather2": {
+    "enabled": true,
+    "colors": [
+      "#1A1516"
+    ]
+  },
+  "leather4": {
+    "enabled": true,
+    "colors": [
+      "#ED0000"
+    ]
+  },
+  "leather5": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leatherColored": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "licensePlate": {
+    "style": "New Russia",
+    "paramStyle": "With Flag",
+    "paramPrefix": "A",
+    "paramPostfix": "AA",
+    "paramNumber": "57",
+    "paramRegion": "57"
+  }
+}

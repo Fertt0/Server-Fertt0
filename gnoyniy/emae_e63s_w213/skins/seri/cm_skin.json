@@ -1,0 +1,60 @@
+{
+  "calipers": {
+    "enabled": true,
+    "colors": [
+      "#FFBF00"
+    ]
+  },
+  "carPaint": {
+    "complex": true,
+    "reflection": 0.6,
+    "gloss": 0.05,
+    "specular": 0.05,
+    "color": "#FF29292B",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather2": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather3": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather4": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leatherColored": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "licensePlate": {
+    "style": "Russia",
+    "paramPrefix": "c",
+    "paramPostfix": "bo",
+    "paramNumber": "777",
+    "paramRegion": "77"
+  }
+}

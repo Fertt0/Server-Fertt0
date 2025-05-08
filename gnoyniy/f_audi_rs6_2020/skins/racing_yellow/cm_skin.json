@@ -1,0 +1,61 @@
+{
+  "carPaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FFA59E0B",
+    "flakes": 1.0,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather2": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather3": {
+    "enabled": false,
+    "colors": [
+      "#C4C9B9"
+    ]
+  },
+  "leather4": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leatherColored": {
+    "enabled": false,
+    "colors": [
+      "#0C7A22"
+    ]
+  },
+  "licensePlate": {
+    "style": "New Russia",
+    "paramStyle": "Without Flag",
+    "paramPrefix": "E",
+    "paramPostfix": "EE",
+    "paramNumber": "39",
+    "paramRegion": "77"
+  },
+  "rims": {
+    "enabled": false,
+    "colors": [
+      "#383434"
+    ]
+  },
+  "rims2": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  }
+}

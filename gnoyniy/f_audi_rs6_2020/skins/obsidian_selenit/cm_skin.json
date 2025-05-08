@@ -1,0 +1,31 @@
+{
+  "carPaint": {
+    "color": "#FF191919",
+    "flakes": 0.0,
+    "enabled": true
+  },
+  "interior": {
+    "enabled": true,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather3": {
+    "enabled": true,
+    "colors": [
+      "#ADADAD"
+    ]
+  },
+  "leatherColored": {
+    "enabled": true,
+    "colors": [
+      "#BAAEAE"
+    ]
+  },
+  "rims": {
+    "enabled": true,
+    "colors": [
+      "#6D6A6A"
+    ]
+  }
+}

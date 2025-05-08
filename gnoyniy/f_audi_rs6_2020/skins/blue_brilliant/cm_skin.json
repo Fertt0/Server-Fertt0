@@ -1,0 +1,35 @@
+{
+  "carPaint": {
+    "complex": true,
+    "reflection": 0.89600000000000013,
+    "gloss": 0.857,
+    "specular": 0.674,
+    "color": "#FF000066",
+    "flakes": 0.92,
+    "enabled": true
+  },
+  "leather2": {
+    "enabled": false,
+    "colors": [
+      "#FCF9F9"
+    ]
+  },
+  "leather3": {
+    "enabled": true,
+    "colors": [
+      "#3F3E3E"
+    ]
+  },
+  "leatherColored": {
+    "enabled": true,
+    "colors": [
+      "#282727"
+    ]
+  },
+  "rims": {
+    "enabled": true,
+    "colors": [
+      "#BCBABA"
+    ]
+  }
+}
