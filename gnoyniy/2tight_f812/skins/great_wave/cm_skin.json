@@ -1,0 +1,103 @@
+{
+  "caliper": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FFFFFFFF",
+    "flakes": 0.777,
+    "enabled": false
+  },
+  "carpaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FFFFFFFF",
+    "flakes": 0.777,
+    "enabled": false
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "dash": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "exhaust": {
+    "complex": true,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF2B3438",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "hoodGlass": {
+    "alpha": 0.0,
+    "enabled": false,
+    "colors": [
+      "#141414"
+    ]
+  },
+  "logos": {
+    "enabled": true,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "meshGrid": {
+    "enabled": true,
+    "colors": [
+      "#D3D3D3"
+    ]
+  },
+  "plate": {
+    "style": "Europe",
+    "paramCountry": "Italy",
+    "paramPrefix": "  812 gt",
+    "paramNumber": "     "
+  },
+  "rearBumper": {
+    "complex": true,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FFAF2D2D",
+    "flakes": 0.777,
+    "enabled": false
+  },
+  "rims": {
+    "complex": true,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FFD88015",
+    "flakes": 0.777,
+    "enabled": false
+  },
+  "seats": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "seatsStripes": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "windowtint": {
+    "alpha": 0.0,
+    "enabled": false,
+    "colors": [
+      "#282723"
+    ]
+  }
+}
